@@ -1,4 +1,4 @@
 # Rectangle Diffusion P5.JS
 
 
-![rectanglediffusionp5js](assets/diff.giff)
+![rectanglediffusionp5js](assets/diff.gif)
